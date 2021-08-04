@@ -1,10 +1,5 @@
-import ctypes
 import os
-import platform
-import subprocess
 import sys
-from subprocess import PIPE, STDOUT, Popen
-from time import sleep
 
 from halo import Halo
 
